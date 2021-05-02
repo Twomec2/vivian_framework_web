@@ -1,0 +1,136 @@
+
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+    background-color: black;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+  }
+  
+  hr{
+    margin: 4% 10%;
+    background-color: #8f8f8f;
+  
+  }  
+
+  .logo-img{
+    width: 20px;
+  }
+
+  p {
+    color: #8f8f8f;
+  }
+  
+  /* Headings */
+  
+  .big-heading {
+    font-size: 3.0rem;
+    line-height: 1.5;
+    padding-top: 20px;
+  }
+  
+  .section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  /* Containers */
+  
+  .container-fluid {
+    padding: 7% 15%;
+  }
+  
+  /* Sections */
+  
+  .colored-section {
+    background-color:black;
+    color: #fff;
+  }
+  
+
+  /* Navigation Bar */
+  
+  .navbar {
+    padding:0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 300;
+  }
+  
+  /* Title Section */
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+  }
+  
+  
+  /* Title image */
+  
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+  }
+  
+  /* Framework Section */
+  
+
+  
+  /* Video/Tutorial Section */
+  
+  
+  /* Pricing Section */
+  
+  #pricing {
+    padding: 100px;
+  }
+  
+  .card-header{
+
+    color: black;
+
+  }
+
+  .pricing-card {
+    padding: 3% 2%;
+  }
+  
+  .price-text {
+    font-size: 2.5rem;
+    line-height: 1.5;
+    color: black;
+  }
+  
+  /* CTA Section */
+  
+  .contact-buttons{
+    margin-top: 30px;
+  }
+  
+  /* Footer Section */
+  
+  .footer-icon {
+    margin: 20px 10px;
+    color: white;
+  }
+  
